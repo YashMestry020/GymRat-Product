@@ -1,0 +1,8 @@
+{
+  "name": "GymRat — Smart Pull-Up Counter",
+  "description": "Interactive product showcase, 3D workflow flowchart game, quality features, hardware architecture, and GymBot specialist for GymRat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
